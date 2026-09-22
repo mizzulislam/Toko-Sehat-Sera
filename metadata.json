@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Bakery & Catering Price Estimator",
+  "description": "Interactive price estimator and WhatsApp lead closing tool for artisan bakery and catering orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
